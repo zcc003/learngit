@@ -1,2 +1,2 @@
-Vim is version control system
-Vim is free soft 
+Git is distributed version control system
+Git is free soft 
